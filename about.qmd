@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a 2nd semester Master's student in Data Science and Decision Making with a background in Management Sciences. I am proficient in Python, SQL, R, and project management. I have experience in customer service and CRM systems, along with strong research skills. I successfully managed client relationships as a Business Development Intern and have additional experience in supply chain, sales, and logistics. Throughout my academic journey, I have completed multiple group projects in both my Bachelor's and Master's programs.
+
+I am currently pursuing a Master of International Business Administration with a focus on Data Science at EUROPA-UNIVERSITÄT-VIADRINA in Frankfurt (Oder), Germany. My coursework includes Data Visualization with Python, Introduction to Python, Data Visualization with R, Operations Research, Supply Chain & Operations Management, and Business Analytics. I have mastered data analysis with tools like MS Excel, Power BI, and Python, which has significantly improved my research efficiency and accuracy.
+
+In my Master's program, I worked on a project to develop a sentiment analysis tool using Python for watch reviews, which enhanced my skills in data processing, visualization, and collaborative teamwork. Additionally, during my Bachelor's program, I led a project to create a DIY aircraft simulator, earning second place for our innovative use of recycled materials and software integration.

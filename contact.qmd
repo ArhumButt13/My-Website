@@ -1,0 +1,11 @@
+---
+title: "Contact Information"
+editor: visual
+---
+
+Muhammad Arhum Butt\
+[arham4860@gmail.com](mailto:arham4860@gmail.com)\
+
+The best way to contact me is at the email address above. I am currently a Master's student in Data Science and Decision Making. For any inquiries related to my work, projects, or collaborations, please reach out via email or LinkedIn.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-arhum-butt-0b968819b/) or check out my [GitHub](https://github.com/ArhumButt13) for my latest projects and contributions.

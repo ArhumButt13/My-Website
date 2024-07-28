@@ -1,0 +1,51 @@
+---
+title: Muhammad Arhum Butt
+image: images/profile.jpg
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/your_twitter_handle
+    - icon: github
+      text: Github
+      href: https://github.com/ArhumButt13
+    - icon: email
+      text: Email
+      href: mailto:arham4860@gmail.com
+    - icon: CV
+      text: CV
+      href: https://github.com/ArhumButt13/cv/blob/master/your-cv.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/muhammad-arhum-butt-0b968819b/
+---
+
+Hello! My name is Muhammad Arhum Butt and I am a Master's student in Data Science and Decision Making. Welcome to my personal website where I share my projects, blog posts, and more.
+
+![Profile Picture](images/profile.jpg)
+
+I am currently pursuing a Master of International Business Administration with a focus on Data Science at EUROPA-UNIVERSITÄT-VIADRINA in Frankfurt (Oder), Germany. My coursework includes Data Visualization with Python, Introduction to Python, Data Visualization with R, Operations Research, Supply Chain & Operations Management, and Business Analytics. I have mastered data analysis with tools like MS Excel, Power BI, and Python, which has significantly improved my research efficiency and accuracy.
+
+Previously, I completed a Bachelor's degree in Aviation Management from the University of Lahore, Pakistan, where I studied courses such as supply chain, marketing, business administration, and human resources. This education strengthened my presentation skills and provided me with a solid foundation in data analysis.
+
+In my professional experience, I have worked as a Business Development Intern and Customer Service Representative at BizzClan, where I assisted in building and enhancing internal partnerships, managed inquiries, and performed statistical analysis. I also interned at the Pakistan Civil Aviation Authority, gaining experience in air cargo operations, non-aeronautical revenue generation, and HR administrative tasks.
+
+In my Master's program, I worked on a project to develop a sentiment analysis tool using Python for watch reviews, which enhanced my skills in data processing, visualization, and collaborative teamwork. Additionally, during my Bachelor's program, I led a project to create a DIY aircraft simulator, earning second place for our innovative use of recycled materials and software integration.
+
+I am fluent in English and Urdu, with basic proficiency in German. My technical skills include MS Office, Google Workspace, Power BI, RStudio, Python, SQL, and project management tools. Outside of my professional interests, I enjoy cooking, cycling, kickboxing, and cricket.
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammad-arhum-butt-0b968819b/), [GitHub](https://github.com/ArhumButt13), or [Email](mailto:arham4860@gmail.com).
+
+---
+
+## Projects
+
+You can find information about my projects on the [Projects](projects.qmd) page.
+
+## Contact
+
+Feel free to reach out to me via the [Contact](contact.qmd) page.
